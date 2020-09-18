@@ -1,4 +1,4 @@
-# machine-learning
+# Cart-Pole model Reinforce learning
 
 cartpole example(with gym)
 
