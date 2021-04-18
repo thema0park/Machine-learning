@@ -2,8 +2,12 @@
 
 cartpole example(with gym)
 
-상세 설명은 주석으로 붙여놓음.
+Cart-Pole 모델에 대한 코드 리뷰
 
-실행하기 전에 gym, 텐서플로우 설치 필수.(파이썬3 임)
+##실행 환경
+gym
+파이썬 3.x
+tensorflow
 
-강화학습을 통해 얻은 weight값을 MCU에 적용하는 방법에 대해선 연구 필요
+##결론
+강화학습을 통해 얻은 weight값을 MCU에 적용하는 방법에 대해서는 추가적인 공부 필요
